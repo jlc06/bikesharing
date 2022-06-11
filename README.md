@@ -41,6 +41,10 @@ After looking at a number of different visualizations, we come to a few conclusi
 5. Most trips start and end in the heart of a city, indicating more successful usage in a heavier urban center. 
 
 ### Additional Visualizations
+Two visualization I would want to include the future given the current dataset are:
+1. Using the start and end station attributes, finding the most often used routes.
+2. Showing a breakout of usertypes (subscriber vs customer) and what times of the week those usertypes most often use the bikes. 
+
 A couple other visualizations that would be helpful (but not possible given the current data) would be:
 1. The number of bikes broken down at any one time and how many would need to be consistently on the street to maintain our usage metrics.
 2. The breakout between NYC residents that use our bikes and those who are visiting from another area of the country.
